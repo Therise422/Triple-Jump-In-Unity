@@ -109,6 +109,8 @@ in the update method whenever our player  is grounded and  and we are not pressi
 now every  time we press the jump button  we check if our player is  grounded or  if jumping is true and the number of remaining jumps is grater  than zero  and as soon as our player jumps  we set is jumping to ture
 and subtract 1 from the remaining  jumps using decrement operator
 
+this is the end of the guide.
+
 
 
 
