@@ -23,9 +23,24 @@ i added an image to show yuu where it is.
 
 
 
-you will then need to make a scrpit for the player movement and call it player movement.
+
+
 
 
 ![image](https://github.com/user-attachments/assets/385a23d6-bad9-4366-a8c4-5358fe9ed270)
+
+
+
+you will then need to make a scrpit for the player movement and call it player movement.
+to  make a scrpit you right click. consal 
+
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/74129049-1c33-4408-a32d-bb0a2d4e0b4c)
 
 
